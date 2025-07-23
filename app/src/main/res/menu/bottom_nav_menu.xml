@@ -8,12 +8,12 @@
 
     <item
         android:id="@+id/navigation_recipes"
-        android:icon="@android:drawable/ic_lock_idle_charging"
+        android:icon="@drawable/ic_recipe"
         android:title="@string/title_recipes" />
 
     <item
         android:id="@+id/navigation_meals"
-        android:icon="@android:drawable/ic_lock_lock"
+        android:icon="@drawable/ic_meal"
         android:title="@string/title_meals" />
 
     <item
@@ -23,7 +23,7 @@
 
     <item
         android:id="@+id/navigation_profile"
-        android:icon="@android:drawable/ic_btn_speak_now"
+        android:icon="@drawable/ic_user_24"
         android:title="@string/title_profile" />
 
 </menu>

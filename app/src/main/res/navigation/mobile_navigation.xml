@@ -7,31 +7,31 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="np.com.ismt.sample.mealmate.ui.home.HomeFragment"
+        android:name="np.com.safaltabhujel.mealmateapp.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_recipes"
-        android:name="np.com.ismt.sample.mealmate.ui.recipes.RecipesFragment"
+        android:name="np.com.safaltabhujel.mealmateapp.ui.recipes.RecipesFragment"
         android:label="@string/title_recipes"
         tools:layout="@layout/fragment_recipes" />
 
     <fragment
         android:id="@+id/navigation_meals"
-        android:name="np.com.ismt.sample.mealmate.ui.meals.MealsFragment"
+        android:name="np.com.safaltabhujel.mealmateapp.ui.meals.MealsFragment"
         android:label="@string/title_meals"
         tools:layout="@layout/fragment_meals" />
 
     <fragment
         android:id="@+id/navigation_shopping"
-        android:name="np.com.ismt.sample.mealmate.ui.shopping.ShoppingFragment"
+        android:name="np.com.safaltabhujel.mealmateapp.ui.shopping.ShoppingFragment"
         android:label="@string/title_shopping"
         tools:layout="@layout/fragment_shopping" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="np.com.ismt.sample.mealmate.ui.profile.ProfileFragment"
+        android:name="np.com.safaltabhujel.mealmateapp.ui.profile.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>

@@ -3,4 +3,27 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bg_general">#1A000000</color>
-</resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="cardBackground">#FFFFFF</color> <!-- White for cards with shadows -->
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_medium">#B0B0B0</color>
+    <color name="gray_dark">#5F5F5F</color>
+    <color name="lavender">#C7CEEA</color> <!-- Calm and soft lavender -->
+    <color name="peach">#FFD6C0</color> <!-- Soft peach tone -->
+    <color name="sky_blue">#B2DBE0</color> <!-- Light desaturated blue -->
+    <color name="sand">#EFE7DA</color> <!-- Background tone alternative -->
+    <color name="success">#8BC34A</color> <!-- Muted green -->
+    <color name="warning">#FBC02D</color> <!-- Soft golden yellow -->
+    <color name="red">#EF5350</color> <!-- Soft red for errors -->
+    </resources>

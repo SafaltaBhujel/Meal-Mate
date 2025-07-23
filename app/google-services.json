@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "185240186031",
-    "project_id": "ismt-amd-2025",
-    "storage_bucket": "ismt-amd-2025.firebasestorage.app"
+    "project_number": "280993080219",
+    "project_id": "safaltabhujel-37900",
+    "storage_bucket": "safaltabhujel-37900.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:185240186031:android:de022627225ade7eaa785a",
+        "mobilesdk_app_id": "1:280993080219:android:fbcc6491011b9c52df373e",
         "android_client_info": {
-          "package_name": "np.com.ismt.sample.mealmate"
+          "package_name": "np.com.safaltabhujel.mealmateapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAQMRkGuScTKq2ZLlElqtN51EjyiEaBNBU"
+          "current_key": "AIzaSyAKAvAdY2HM7TudCu0pAuJ1JJLJkkpW2X0"
         }
       ],
       "services": {

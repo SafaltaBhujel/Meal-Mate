@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "np.com.ismt.sample.mealmate"
+    namespace = "np.com.safaltabhujel.mealmateapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "np.com.ismt.sample.mealmate"
+        applicationId = "np.com.safaltabhujel.mealmateapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
